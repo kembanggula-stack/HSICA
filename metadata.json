@@ -1,0 +1,6 @@
+{
+  "name": "HSI Creative Academy",
+  "description": "Website resmi HSI Creative Academy — belajar desain, video, dan penulisan dari praktisi HSI sesuai kaidah syariat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
